@@ -98,3 +98,8 @@ The client will connect to the server and start streaming audio.
 
 Note: Make sure the server IP address is correctly specified.
 
+### Misc files
+
+- test.py - to test the audio functionality of pyaudio and streaming functions
+- client.py - an earlier version of the client before the gui development
+
