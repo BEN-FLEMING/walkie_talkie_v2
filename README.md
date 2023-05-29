@@ -68,7 +68,7 @@ To run the Walkie Talkie Client, you need the following:
 
 Clone the repository:
 ```
-bash$ git clone https://github.com/BEN-FLEMING/walkie-talkie.git
+bash$ git clone https://github.com/BEN-FLEMING/walkie_talkie_v2.git
 ```
 Change to the client directory:
 ```
