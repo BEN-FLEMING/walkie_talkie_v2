@@ -72,7 +72,7 @@ bash$ git clone https://github.com/BEN-FLEMING/walkie_talkie_v2.git
 ```
 Change to the client directory:
 ```
-bash$ cd walkie-talkie/client
+bash$ cd walkie_talkie_v2/client
 ```
 Install the required dependencies:
 ```
