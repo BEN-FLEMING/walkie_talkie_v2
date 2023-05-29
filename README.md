@@ -22,9 +22,9 @@ To run the Walkie Talkie Server, you need the following:
 
 Clone the repository:
 ```
-bash$ git clone https://github.com/your-username/walkie_talkie_v2.git
+bash$ git clone https://github.com/BEN-FLEMING/walkie_talkie_v2.git
 ```
-#### Change to the server directory:**
+#### Change to the walkie talkie directory:**
 ```
 bash$ cd walkie_talkie_v2
 ```
@@ -70,9 +70,9 @@ Clone the repository:
 ```
 bash$ git clone https://github.com/BEN-FLEMING/walkie_talkie_v2.git
 ```
-Change to the client directory:
+Change to the walkie talkie directory:
 ```
-bash$ cd walkie_talkie_v2/client
+bash$ cd walkie_talkie_v2
 ```
 Install the required dependencies:
 ```
